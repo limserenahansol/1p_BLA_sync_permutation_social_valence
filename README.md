@@ -6,3 +6,11 @@ code for BLA neuron calcium imaging analysis
 4. the percentage comparison with shuffling of data in Figure4-5 as bar graph you can reproduce using the code: Figure4_5_permutation_bargraph.
    
     
+1. System requirements
+
+Python (3.10.8)
+
+2. Installation guide
+above 
+3. Demo
+Demo_data.zip
