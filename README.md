@@ -8,7 +8,7 @@ code for BLA neuron calcium imaging analysis
     
 1. System requirements
 
-Python (3.10.8)
+Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
 
 2. Installation guide
 above 
