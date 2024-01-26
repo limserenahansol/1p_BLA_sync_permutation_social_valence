@@ -1,4 +1,4 @@
-#  1p_BLA_sync_permutation_social_valence
+##  1p_BLA_sync_permutation_social_valence
 DOI: https://doi.org/10.1101/2023.10.17.562740
 # Genetically- and spatially-defined basolateral amygdala neurons control food consumption and social interaction
 Highlights: 
@@ -23,8 +23,9 @@ import core.preprocessing as prep"
 4. You can run each code (5 codes) described in the paper to generate the results: 1. Fear Conditioning, 2.social, 3. food, 4. permutation, 5, suppl.10 social_footshock.
    code number 4 is the percentage comparison with shuffling of data in Figure4-5 as bar graph you can reproduce using the code: Figure4_5_permutation_bargraph.
    
- [!NOTE]      
- System requirements
+### required 
+[!NOTE]      
+System requirements
 
 Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
 
@@ -35,7 +36,8 @@ import numpy as np
 import h5py as h5
 import pandas as pd
 ```
-2. Installation guide
+
+Installation guide
 above 
 3. Demo
 Demo_data.zip
