@@ -18,7 +18,7 @@ Highlights:
    therefore the behavioral statistics time series can be synchronized with calcium traces by the emission/receival time on both devices) and it would generate combined one H5 file (behavior+calcium data)
 3.  Run Synchrnoize_h5generation.py code to apply core-codes (preprocessing) to your data:
 ```
-import core.preprocessing as prep"
+import core.preprocessing as prep
 ```
 4. You can run each code (5 codes) described in the paper to generate the results: 1. Fear Conditioning, 2.social, 3. food, 4. permutation, 5, suppl.10 social_footshock.
    code number 4 is the percentage comparison with shuffling of data in Figure4-5 as bar graph you can reproduce using the code: Figure4_5_permutation_bargraph.
