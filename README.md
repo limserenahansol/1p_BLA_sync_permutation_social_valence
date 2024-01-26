@@ -29,8 +29,11 @@ import core.preprocessing as prep
 >-System requirements
 >Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
 >Packages:
->suite2p : https://github.com/MouseLand/suite2p
-```pip install git+https://github.com/MouseLand/suite2p.git```
+>suite2p :
+>https://github.com/MouseLand/suite2p
+```
+pip install git+https://github.com/MouseLand/suite2p.git
+```
 > matplotlib
 >numpy
 
