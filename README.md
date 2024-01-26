@@ -25,7 +25,7 @@ import core.preprocessing as prep
    
 ### required 
 [!NOTE]      
-System requirements
+-System requirements
 
 Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
 
@@ -39,8 +39,8 @@ import pandas as pd
 
 Installation guide
 above 
-3. Demo
-Demo_data.zip
+- Demo
+-Demo_data.zip
 
 
 ### Acknowledgement
