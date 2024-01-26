@@ -28,6 +28,12 @@ import core.preprocessing as prep
 >[!NOTE]
 >-System requirements
 >Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
+>Packages:
+>suite2p
+> matplotlib
+>numpy
+
+
 
 >[!TIP]
 >- "our analysis pipeline is based on basic python packages:"
