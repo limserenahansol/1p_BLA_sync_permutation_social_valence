@@ -1,5 +1,11 @@
 #  1p_BLA_sync_permutation_social_valence
 DOI: https://doi.org/10.1101/2023.10.17.562740
+# Genetically- and spatially-defined basolateral amygdala neurons control food consumption and social interaction
+Highlights: 
+1)	Classification of molecularly-defined glutamatergic neuron types in mouse BLA with distinct spatial expression patterns.
+2)	BLALypd1 neurons are positive-valence neurons innately responding to food and promoting normal feeding. 
+3)	BLAEtv1 neurons innately respond to aversive and social stimuli.
+4)	 BLAEtv1 neurons promote fear learning and social interactions. 
 
 ![Screenshot](https://github.com/limserenahansol/1p_BLA_sync_permutation_social_valence/blob/main/graphical%20abstract_hansol.png)
 
