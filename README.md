@@ -35,9 +35,15 @@ import core.preprocessing as prep
 pip install git+https://github.com/MouseLand/suite2p.git
 ```
 > matplotlib
+```
+pip install matplotlib
+pip install PyQt5
+```
 >numpy
-
-
+>[!CAUTION]
+our code included : matplotlib Qt5Agg
+An Error is happening because Google Colab and Jupyter run on virtual environments which do not support GUI outputs as you cannot open new windows through a browser.
+Running it locally on a code editor(Spyder, or even IDLE) ensures that it can open a new window for the GUI to initialize.
 
 >[!TIP]
 >- "our analysis pipeline is based on basic python packages:"
