@@ -1,7 +1,7 @@
 # 1p_BLA_sync_permutation_social_valence
 DOI: https://doi.org/10.1101/2023.10.17.562740
 
-![alt text]https://github.com/limserenahansol/1p_BLA_sync_permutation_social_valence/blob/main/graphical%20abstract_hansol.png
+![Screenshot](https://github.com/limserenahansol/1p_BLA_sync_permutation_social_valence/blob/main/graphical%20abstract_hansol.png)
 ```
 "Step by step" for codes for BLA neuron calcium imaging analysis
 ```
