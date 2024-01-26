@@ -40,7 +40,8 @@ pip install matplotlib
 pip install PyQt5
 ```
 >numpy
->[!CAUTION]
+
+> [!WARNING] 
 our code included : matplotlib Qt5Agg
 An Error is happening because Google Colab and Jupyter run on virtual environments which do not support GUI outputs as you cannot open new windows through a browser.
 Running it locally on a code editor(Spyder, or even IDLE) ensures that it can open a new window for the GUI to initialize.
