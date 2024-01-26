@@ -30,6 +30,7 @@ import core.preprocessing as prep
 >Python (3.10.8): we used  a Python IDE for professional developers by JetBrains, Pycharm.
 >Packages:
 >suite2p : https://github.com/MouseLand/suite2p
+```pip install git+https://github.com/MouseLand/suite2p.git```
 > matplotlib
 >numpy
 
@@ -37,11 +38,11 @@ import core.preprocessing as prep
 
 >[!TIP]
 >- "our analysis pipeline is based on basic python packages:"
->- ```
+```
 >  import numpy as np
 >import h5py as h5
 >import pandas as pd
->```
+```
 
 Installation guide
 above 
